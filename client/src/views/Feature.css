@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.card{
+    width: 1020px;
+    height: auto;
+    font-family: 'Press Start 2P', cursive;
+    margin: auto;
+    box-shadow: 0px 0px 20px 20px rgba(0,0,0,0.45);
+    background-color: rgb(33,37,41);
+    color: white;
+    padding-top: 50px;
+}
+
+.list{
+    width: 900px;
+    height: auto;
+    margin: 40px;
+    border: solid white 3px;
+    padding: 30px;
+}
+
+.list5{
+    list-style-type: none;
+}
+
+.image1{
+    width: 700px;
+    height: 400px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.features{
+    text-align: left;
+}
+
+.featuress{
+    margin: 100px;
+}
+
+.flex2{
+    margin-top: 40px;
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.screenshot{
+    width: 400px;
+    height: 250px;
+}
+
+.resources{
+    font-size: 12pt;
+}
+
+.list3{
+    text-align: left;
+    list-style-type: none;
+    font-size: 10pt;
+}
+
+.resources2{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+
+
+.github{
+    margin-left: 50px;
+    padding-top: 15px;
+}
+
+.icon{
+    margin-left: 200px;
+}
+
+.form{
+    margin-top: 50px;
+}
+
+.white{
+    color: white;
+}
+
+.table{
+    width: 1000px;
+    height: auto;
+    /* margin-top: 300px; */
+}
+
+.flex3{
+    display: flex;
+    justify-content: center;
+}
+
+.cont{
+    height: auto;
+    width: 1450px;
+    background-color: rgb(33,37,41);
+    padding: 40px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px rgba(0,0,0,0.45);
+}
+
+.cont2{
+    height: auto;
+    width: auto;
+    background-color: rgb(33,37,41);
+    padding: 40px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px rgba(0,0,0,0.45);
+}
+
+.poketable {
+    font-size: 11pt;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+.bg{
+    background-image: url("https://cdn.discordapp.com/attachments/763614696229044234/1145860972116979773/vecteezy_water-pokemon-pattern_14022441.jpg");
+}
+
+.bg2{
+    background-image: url("https://cdn.discordapp.com/attachments/763614696229044234/1145859177944731719/Screenshot_2023-08-28_at_16-14-53_Pokeball_icon_sign_seamless_pattern_on_a_gray_vector_image_on_VectorStock.png");
+
+}
+
+.bg3{
+    background-image: url("https://cdn.discordapp.com/attachments/763614696229044234/1145874547711672490/vecteezy_ghost-pokemon-pattern_14022431.jpg");
+
+}
+
+.flex4{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    margin-bottom: 50px;
+}
+
+.container{
+    border: solid 5px white;
+}
+
+table, th, td {
+    border: 1px solid white;
+}
+
+th, td{
+    padding: 10px;
+}
